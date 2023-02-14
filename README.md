@@ -1,0 +1,2 @@
+# yuru_telop_autogeneration
+ゆる言語学ラジオのテロップを自動生成を目的とした実験
